@@ -2,44 +2,52 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Harry Richman
+Mathematician, Computational Biologist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hrichman@alum.mit.edu">hrichman@alum.mit.edu</a>
+| <a href="http://harryrichman.info">My web page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Postdoctoral Fellow at Fred Hutch Cancer Center, Matsen Group
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Tropical geometry, phylogenetic inference, curvature on graphs
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014 - 2020`
+__University of Michigan__, Ann Arbor
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - 2014`
+__Independent University of Moscow__, Moscow
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2009 - 2013`
+__Massachusetts Institute of Technology__, Cambridge
 
 - Fellow
 
+
+## Occupation
+
+`2020 - 2022`
+__University of Washington__, Seattle
+
+- Postdoctoral Scholar
+
+`2023 - 2024`
+__Fred Hutch Cancer Center__, Seattle
+
+- Postdoctoral Fellow, Matsen Group
 
 
 ## Awards
@@ -70,17 +78,6 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
