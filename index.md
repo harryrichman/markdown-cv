@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Harry Richman's CV
 ---
 # Harry Richman
 Mathematician, Computational Biologist
@@ -26,15 +26,17 @@ Tropical geometry, phylogenetic inference, curvature on graphs
 `2014 - 2020`
 __University of Michigan__, Ann Arbor
 
+- PhD, Mathematics
+
 `2013 - 2014`
 __Independent University of Moscow__, Moscow
 
-- Sizar
+- study abroad program
 
 `2009 - 2013`
 __Massachusetts Institute of Technology__, Cambridge
 
-- Fellow
+- SB, Mathematics
 
 
 ## Occupation
@@ -52,37 +54,43 @@ __Fred Hutch Cancer Center__, Seattle
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020 - 2022`
+AMS-Simons Travel Grant
 
-Associate, *French Academy of Science*, Paris, France
+`2019 - 2020`
+Rackham Predoctoral Fellowship, *University of Michigan*, Ann Arbor, USA
 
+`2013`
+AMS Math in Moscow Scholarship
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate) -->
 
 ### Journals
 
-`1669`
+`2024`
+The distribution of Weierstrass points on a tropical curve, *Selecta Math. New Ser.* **30**
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
+`2024`
+The floor quotient partial order, with Jeff Lagarias, *Adv. Appl. Math.* **153**
+
+`2023`
+The tropical Manin-Mumford conjecture, *Int. Math. Res. Not. IMRN* **2023**
 
 etc. etc. etc.
 
-### Patents
+### Conference Proceedings
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2019`
+Derangements and the *p*-adic incomplete gamma function (extended abstract), with Andrew O'Desky, *FPSAC 2019*
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
 
 
