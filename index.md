@@ -1,19 +1,20 @@
 ---
 layout: cv
-title: Harry Richman's CV
+title: Harry Richman
 ---
 # Harry Richman
 Mathematician, Computational Biologist
 
 <div id="webaddress">
-<a href="hrichman@alum.mit.edu">hrichman@alum.mit.edu</a>
+<!-- <a href="hrichman@alum.mit.edu">hrichman@alum.mit.edu</a> -->
+hrichman@alum.mit.edu
 | <a href="http://harryrichman.info">My web page</a>
 </div>
 
 
-## Currently
+<!-- ## Currently
 
-Postdoctoral Fellow at Fred Hutch Cancer Center, Matsen Group
+Postdoctoral Fellow at Fred Hutch Cancer Center, Matsen Group -->
 
 
 ### Research interests
@@ -21,35 +22,35 @@ Postdoctoral Fellow at Fred Hutch Cancer Center, Matsen Group
 Tropical geometry, phylogenetic inference, curvature on graphs
 
 
-## Education
-
-`2014 - 2020`
-__University of Michigan__, Ann Arbor
-
-- PhD, Mathematics
-
-`2013 - 2014`
-__Independent University of Moscow__, Moscow
-
-- study abroad program
-
-`2009 - 2013`
-__Massachusetts Institute of Technology__, Cambridge
-
-- SB, Mathematics
-
-
 ## Occupation
+
+`2023 - 2024`
+__Fred Hutch Cancer Center__, Seattle
+
+- Postdoctoral Fellow, Matsen Group
 
 `2020 - 2022`
 __University of Washington__, Seattle
 
 - Postdoctoral Scholar
 
-`2023 - 2024`
-__Fred Hutch Cancer Center__, Seattle
 
-- Postdoctoral Fellow, Matsen Group
+## Education
+
+`2014 - 2020`
+__University of Michigan__, Ann Arbor, USA
+
+- Ph.D., Mathematics
+
+`2013 - 2014`
+__Independent University of Moscow__, Moscow, Russia
+
+- study abroad program
+
+`2009 - 2013`
+__Massachusetts Institute of Technology__, Cambridge, USA
+
+- S.B., Mathematics
 
 
 ## Awards
@@ -66,16 +67,15 @@ AMS Math in Moscow Scholarship
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate) -->
+A list is also available [online](https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate)
 
 ### Journals
 
 `2024`
 The distribution of Weierstrass points on a tropical curve, *Selecta Math. New Ser.* **30**
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 `2024`
-The floor quotient partial order, with Jeff Lagarias, *Adv. Appl. Math.* **153**
+The floor quotient partial order, *Adv. Appl. Math.* **153**, with Jeffrey Lagarias
 
 `2023`
 The tropical Manin-Mumford conjecture, *Int. Math. Res. Not. IMRN* **2023**
@@ -85,9 +85,33 @@ etc. etc. etc.
 ### Conference Proceedings
 
 `2019`
-Derangements and the *p*-adic incomplete gamma function (extended abstract), with Andrew O'Desky, *FPSAC 2019*
+Derangements and the *p*-adic incomplete gamma function (extended abstract), *FPSAC 2019*, with Andrew O'Desky
 
 
+### Preprints
+
+TBA
+
+## Service
+
+### Co-organizer
+
+`2024`
+JMM Special Session on Ricci Curvatues on Graphs and Applications
+
+`2018-2019`
+University of Michigan Student Combinatorics Seminar
+
+
+### Journal Referee
+
+Annals of Combinatorics,
+Electronic Journal of Combinatorics,
+Journal of Integer Seqeunces
+
+### Contributor
+
+SageMath, EteToolkit
 
 <!-- ### Footer
 
