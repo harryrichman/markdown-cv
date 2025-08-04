@@ -78,6 +78,10 @@ A list is also available [online](https://scholar.google.com/citations?user=_D7c
 ### Journals
 
 `2025`
+A Ricci flow on graphs from effective resistance, accepted to *J. Combinatorics*,  
+&emsp; with Aleyah Dawkins, Vishal Gupta, Mark Kempton, William Linz, Jeremy Quail, and Zachary Stier
+
+`2025`
 Node resistance curvature in Cartesian graph products, accepted to *J. Combinatorics*,  
 &emsp; with A. Dawkins, V. Gupta, M. Kempton, W. Linz, J. Quail, and Z. Stier
 
@@ -126,7 +130,7 @@ Principal minors of tree distance matrices (extended abstract), *FPSAC 2025*,
 &emsp; with Farbod Shokrieh and Chenxi Wu
 
 `2025` 
-PhyloVAE: Unsupervised learning of phylogenetic trees via varitional autoencoders, *ICLR 2025*,  
+PhyloVAE: Unsupervised learning of phylogenetic trees via variational autoencoders, *ICLR 2025*,  
 &emsp; with Tianyu Xie, Jiansi Gao, Frederick A. Matsen IV, and Cheng Zhang
 
 `2022`
@@ -149,10 +153,6 @@ Counting two-forests and random cut size via potential theory,
 &emsp; with Farbod Shokrieh and Chenxi Wu
 
 `2024`
-A Ricci flow on graphs from effective resistance,  
-&emsp; with Aleyah Dawkins, Vishal Gupta, Mark Kempton, William Linz, Jeremy Quail, and Zachary Stier
-
-`2024`
 Principal minors of tree distance matrices,  
 &emsp; with Farbod Shokrieh and Chenxi Wu
 
@@ -164,7 +164,7 @@ Principal minors of tree distance matrices,
 ### Co-organizer
 
 `2024`
-JMM Special Session on Ricci Curvatues on Graphs and Applications
+JMM Special Session on Ricci Curvatures on Graphs and Applications
 
 `2018-2019`
 University of Michigan Student Combinatorics Seminar
@@ -174,7 +174,7 @@ University of Michigan Student Combinatorics Seminar
 
 Annals of Combinatorics,
 Electronic Journal of Combinatorics,
-Journal of Integer Seqeunces
+Journal of Integer Sequences
 
 ### Contributor
 
@@ -182,6 +182,6 @@ SageMath, Ete Toolkit
 
 <!-- ### Footer
 
-Last updated: May 2024 -->
+Last updated: May 2025 -->
 
 
