@@ -26,7 +26,7 @@ phylogenetic inference, curvature on graphs
 
 ## Occupation
 
-`2024 - current`
+`2024 - now`
 __National Center for Theoretical Sciences__, Taipei
 - Postdoctoral Fellow
 
