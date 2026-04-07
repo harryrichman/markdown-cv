@@ -77,12 +77,29 @@ A list is also available [online](https://scholar.google.com/citations?user=_D7c
 
 ### Journals
 
-`2025`
-A Ricci flow on graphs from effective resistance, accepted to *J. Combinatorics*,  
-&emsp; with Aleyah Dawkins, Vishal Gupta, Mark Kempton, William Linz, Jeremy Quail, and Zachary Stier
+`2026`
+Tropical Weierstrass points and Weierstrass weights,  
+accepted to *J. Eur. Math. Soc. (JEMS)*  
+&emsp; with Omid Amini and Lucas Gierczak
+
+
+`2026`
+Vector encoding of phylogenetic trees by ordered leaf attachment,
+*Bull. Math. Biol.* **88**  
+&emsp; with Erick Matsen and Cheng Zhang
 
 `2025`
-Node resistance curvature in Cartesian graph products, accepted to *J. Combinatorics*,  
+Counting two-forests and random cut size via potential theory,
+accepted to *Ann. Inst. Henri Poincare Prob. Stat.*  
+&emsp; with Farbod Shokrieh and Chenxi Wu
+
+
+`2025`
+A Ricci flow on graphs from effective resistance, accepted to *J. Combinatorics* **16**,  
+&emsp; with A. Dawkins, V. Gupta, M. Kempton, W. Linz, J. Quail, and Z. Stier
+
+`2025`
+Node resistance curvature in Cartesian graph products, accepted to *J. Combinatorics* **16**,  
 &emsp; with A. Dawkins, V. Gupta, M. Kempton, W. Linz, J. Quail, and Z. Stier
 
 `2025`
@@ -144,24 +161,24 @@ The distribution of Weierstrass points on a tropical curve (extended abstract), 
 
 ### Preprints
 
-`2023`
-Tropical Weierstrass points and Weierstrass weights,  
-&emsp; with Omid Amini and Lucas Gierczak
-
 `2024`
-Counting two-forests and random cut size via potential theory,  
-&emsp; with Farbod Shokrieh and Chenxi Wu
+The Mobius function of the poset of triangular numbers under divisibility,  
+&emsp; with Rohan Pandey
 
 `2024`
 Principal minors of tree distance matrices,  
 &emsp; with Farbod Shokrieh and Chenxi Wu
 
-`2025` Vector encoding of phylogenetic trees by ordered leaf attachment,  
-&emsp; with Erick Matsen and Cheng Zhang
+`2025`
+On determinants of resistance matrices,  
+&emsp; with Farbod Shokrieh and Chenxi Wu
 
 ## Service
 
 ### Co-organizer
+
+`2025`
+Taipei Postdoc Seminar
 
 `2024`
 JMM Special Session on Ricci Curvatures on Graphs and Applications
